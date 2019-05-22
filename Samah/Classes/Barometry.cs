@@ -9,7 +9,7 @@ namespace Samah.Classes
 {
     class Barometry : IBarometry
     {
-        
+        /// لطفا مستند سازی شود
         public string Group_1(string message_1, int nohe_message, int Lng, int Lat)
         {
             // string eroor_1 = "";
