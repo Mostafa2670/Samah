@@ -1,0 +1,5 @@
+H:\C#\Repository\Github\Samah Team\Samah\Samah\Samah\obj\Debug\Samah.csprojAssemblyReference.cache
+H:\C#\Repository\Github\Samah Team\Samah\Samah\Samah\obj\Debug\Samah.Form1.resources
+H:\C#\Repository\Github\Samah Team\Samah\Samah\Samah\obj\Debug\Samah.Properties.Resources.resources
+H:\C#\Repository\Github\Samah Team\Samah\Samah\Samah\obj\Debug\Samah.csproj.GenerateResource.cache
+H:\C#\Repository\Github\Samah Team\Samah\Samah\Samah\obj\Debug\Samah.csproj.CoreCompileInputs.cache
